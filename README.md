@@ -6,7 +6,7 @@
 
 ## 💻 Sobre o projeto
 
-O Projeto tem como objetivo, realizar um Crud.
+O Projeto tem como objetivo, realizar um Crud, Acompanhado pelo Prof. Fernando Leonid
 
 ---
 
